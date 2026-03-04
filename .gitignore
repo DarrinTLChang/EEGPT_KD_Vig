@@ -1,0 +1,18 @@
+# checkpoints / models
+*.ckpt
+*.pt
+*.pth
+
+# arrays / datasets
+*.npy
+*.npz
+*.mat
+
+# python cache
+**/__pycache__/
+*.pyc
+
+# logs
+EEGvigilance/
+runs/
+lightning_logs/
